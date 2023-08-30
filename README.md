@@ -1,4 +1,4 @@
 # my-projectDemo
-Auther - Anwesha Sabat
+Auther - Anwesha (from apnacollege)
 <br>
 my first project
